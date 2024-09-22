@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376068399312",
+    "project_id": "android105class-77730",
+    "storage_bucket": "android105class-77730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376068399312:android:a90ac65ce0f37056f93ed5",
+        "android_client_info": {
+          "package_name": "com.matrix.android105_android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPG_vvAAksaUaaQRSenUT_oQ148LnpORM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
